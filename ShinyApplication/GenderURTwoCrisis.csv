@@ -1,0 +1,111 @@
+DATE,Crisis,Months,Gender,UR
+1/1/2008,Subprime mortgage,0,Men,5.2
+2/1/2008,Subprime mortgage,1,Men,5
+3/1/2008,Subprime mortgage,2,Men,5.2
+4/1/2008,Subprime mortgage,3,Men,5.2
+5/1/2008,Subprime mortgage,4,Men,5.6
+6/1/2008,Subprime mortgage,5,Men,5.8
+7/1/2008,Subprime mortgage,6,Men,6.2
+8/1/2008,Subprime mortgage,7,Men,6.3
+9/1/2008,Subprime mortgage,8,Men,6.7
+10/1/2008,Subprime mortgage,9,Men,7.1
+11/1/2008,Subprime mortgage,10,Men,7.4
+12/1/2008,Subprime mortgage,11,Men,8
+1/1/2009,Subprime mortgage,12,Men,8.6
+2/1/2009,Subprime mortgage,13,Men,9.2
+3/1/2009,Subprime mortgage,14,Men,9.7
+4/1/2009,Subprime mortgage,15,Men,10.1
+5/1/2009,Subprime mortgage,16,Men,10.6
+6/1/2009,Subprime mortgage,17,Men,10.6
+7/1/2009,Subprime mortgage,18,Men,10.5
+8/1/2009,Subprime mortgage,19,Men,10.7
+9/1/2009,Subprime mortgage,20,Men,10.9
+10/1/2009,Subprime mortgage,21,Men,11.1
+11/1/2009,Subprime mortgage,22,Men,11
+12/1/2009,Subprime mortgage,23,Men,10.9
+1/1/2010,Subprime mortgage,24,Men,11
+2/1/2010,Subprime mortgage,25,Men,10.9
+3/1/2010,Subprime mortgage,26,Men,10.9
+4/1/2010,Subprime mortgage,27,Men,10.9
+5/1/2010,Subprime mortgage,28,Men,10.4
+6/1/2010,Subprime mortgage,29,Men,10.4
+7/1/2010,Subprime mortgage,30,Men,10.3
+8/1/2010,Subprime mortgage,31,Men,10.3
+9/1/2010,Subprime mortgage,32,Men,10.2
+10/1/2010,Subprime mortgage,33,Men,10.1
+11/1/2010,Subprime mortgage,34,Men,10.5
+12/1/2010,Subprime mortgage,35,Men,10
+1/1/2008,Subprime mortgage,0,Women,4.8
+2/1/2008,Subprime mortgage,1,Women,4.7
+3/1/2008,Subprime mortgage,2,Women,5
+4/1/2008,Subprime mortgage,3,Women,4.8
+5/1/2008,Subprime mortgage,4,Women,5.2
+6/1/2008,Subprime mortgage,5,Women,5.3
+7/1/2008,Subprime mortgage,6,Women,5.3
+8/1/2008,Subprime mortgage,7,Women,5.9
+9/1/2008,Subprime mortgage,8,Women,5.5
+10/1/2008,Subprime mortgage,9,Women,5.9
+11/1/2008,Subprime mortgage,10,Women,6.2
+12/1/2008,Subprime mortgage,11,Women,6.5
+1/1/2009,Subprime mortgage,12,Women,7
+2/1/2009,Subprime mortgage,13,Women,7.3
+3/1/2009,Subprime mortgage,14,Women,7.6
+4/1/2009,Subprime mortgage,15,Women,7.6
+5/1/2009,Subprime mortgage,16,Women,8
+6/1/2009,Subprime mortgage,17,Women,8.3
+7/1/2009,Subprime mortgage,18,Women,8.3
+8/1/2009,Subprime mortgage,19,Women,8.3
+9/1/2009,Subprime mortgage,20,Women,8.5
+10/1/2009,Subprime mortgage,21,Women,8.7
+11/1/2009,Subprime mortgage,22,Women,8.6
+12/1/2009,Subprime mortgage,23,Women,8.7
+1/1/2010,Subprime mortgage,24,Women,8.4
+2/1/2010,Subprime mortgage,25,Women,8.6
+3/1/2010,Subprime mortgage,26,Women,8.7
+4/1/2010,Subprime mortgage,27,Women,8.8
+5/1/2010,Subprime mortgage,28,Women,8.8
+6/1/2010,Subprime mortgage,29,Women,8.3
+7/1/2010,Subprime mortgage,30,Women,8.5
+8/1/2010,Subprime mortgage,31,Women,8.6
+9/1/2010,Subprime mortgage,32,Women,8.6
+10/1/2010,Subprime mortgage,33,Women,8.7
+11/1/2010,Subprime mortgage,34,Women,9
+12/1/2010,Subprime mortgage,35,Women,8.5
+1/1/2020,Covid-19,0,Men,3.5
+2/1/2020,Covid-19,1,Men,3.5
+3/1/2020,Covid-19,2,Men,4.4
+4/1/2020,Covid-19,3,Men,13.6
+5/1/2020,Covid-19,4,Men,12.2
+6/1/2020,Covid-19,5,Men,10.5
+7/1/2020,Covid-19,6,Men,9.8
+8/1/2020,Covid-19,7,Men,8.3
+9/1/2020,Covid-19,8,Men,7.7
+10/1/2020,Covid-19,9,Men,7
+11/1/2020,Covid-19,10,Men,6.9
+12/1/2020,Covid-19,11,Men,6.7
+1/1/2021,Covid-19,12,Men,6.4
+2/1/2021,Covid-19,13,Men,6.3
+3/1/2021,Covid-19,14,Men,6.2
+4/1/2021,Covid-19,15,Men,6.3
+5/1/2021,Covid-19,16,Men,6
+6/1/2021,Covid-19,17,Men,6
+7/1/2021,Covid-19,18,Men,5.6
+1/1/2020,Covid-19,0,Women,3.5
+2/1/2020,Covid-19,1,Women,3.4
+3/1/2020,Covid-19,2,Women,4.4
+4/1/2020,Covid-19,3,Women,16.1
+5/1/2020,Covid-19,4,Women,14.5
+6/1/2020,Covid-19,5,Women,11.7
+7/1/2020,Covid-19,6,Women,10.6
+8/1/2020,Covid-19,7,Women,8.6
+9/1/2020,Covid-19,8,Women,8
+10/1/2020,Covid-19,9,Women,6.8
+11/1/2020,Covid-19,10,Women,6.4
+12/1/2020,Covid-19,11,Women,6.7
+1/1/2021,Covid-19,12,Women,6.3
+2/1/2021,Covid-19,13,Women,6.1
+3/1/2021,Covid-19,14,Women,5.9
+4/1/2021,Covid-19,15,Women,5.8
+5/1/2021,Covid-19,16,Women,5.5
+6/1/2021,Covid-19,17,Women,5.7
+7/1/2021,Covid-19,18,Women,5.2

@@ -1,0 +1,487 @@
+DATE,Industry,UR,Crisis,Months
+1/1/2008,Construction,11,Subprime mortgage,0
+2/1/2008,Construction,11.4,Subprime mortgage,1
+3/1/2008,Construction,12,Subprime mortgage,2
+4/1/2008,Construction,11.1,Subprime mortgage,3
+5/1/2008,Construction,8.6,Subprime mortgage,4
+6/1/2008,Construction,8.2,Subprime mortgage,5
+7/1/2008,Construction,8,Subprime mortgage,6
+8/1/2008,Construction,8.2,Subprime mortgage,7
+9/1/2008,Construction,9.9,Subprime mortgage,8
+10/1/2008,Construction,10.8,Subprime mortgage,9
+11/1/2008,Construction,12.7,Subprime mortgage,10
+12/1/2008,Construction,15.3,Subprime mortgage,11
+1/1/2009,Construction,18.2,Subprime mortgage,12
+2/1/2009,Construction,21.4,Subprime mortgage,13
+3/1/2009,Construction,21.1,Subprime mortgage,14
+4/1/2009,Construction,18.7,Subprime mortgage,15
+5/1/2009,Construction,19.2,Subprime mortgage,16
+6/1/2009,Construction,17.4,Subprime mortgage,17
+7/1/2009,Construction,18.2,Subprime mortgage,18
+8/1/2009,Construction,16.5,Subprime mortgage,19
+9/1/2009,Construction,17.1,Subprime mortgage,20
+10/1/2009,Construction,18.7,Subprime mortgage,21
+11/1/2009,Construction,19.4,Subprime mortgage,22
+12/1/2009,Construction,22.7,Subprime mortgage,23
+1/1/2010,Construction,24.7,Subprime mortgage,24
+2/1/2010,Construction,27.1,Subprime mortgage,25
+3/1/2010,Construction,24.9,Subprime mortgage,26
+4/1/2010,Construction,21.8,Subprime mortgage,27
+5/1/2010,Construction,20.1,Subprime mortgage,28
+6/1/2010,Construction,20.1,Subprime mortgage,29
+7/1/2010,Construction,17.3,Subprime mortgage,30
+8/1/2010,Construction,17,Subprime mortgage,31
+9/1/2010,Construction,17.2,Subprime mortgage,32
+10/1/2010,Construction,17.3,Subprime mortgage,33
+11/1/2010,Construction,18.8,Subprime mortgage,34
+12/1/2010,Construction,20.7,Subprime mortgage,35
+1/1/2008,Manufacturing,5.1,Subprime mortgage,0
+2/1/2008,Manufacturing,5,Subprime mortgage,1
+3/1/2008,Manufacturing,5,Subprime mortgage,2
+4/1/2008,Manufacturing,4.8,Subprime mortgage,3
+5/1/2008,Manufacturing,5.3,Subprime mortgage,4
+6/1/2008,Manufacturing,5.2,Subprime mortgage,5
+7/1/2008,Manufacturing,5.5,Subprime mortgage,6
+8/1/2008,Manufacturing,5.7,Subprime mortgage,7
+9/1/2008,Manufacturing,6,Subprime mortgage,8
+10/1/2008,Manufacturing,6.2,Subprime mortgage,9
+11/1/2008,Manufacturing,7,Subprime mortgage,10
+12/1/2008,Manufacturing,8.3,Subprime mortgage,11
+1/1/2009,Manufacturing,10.9,Subprime mortgage,12
+2/1/2009,Manufacturing,11.5,Subprime mortgage,13
+3/1/2009,Manufacturing,12.2,Subprime mortgage,14
+4/1/2009,Manufacturing,12.4,Subprime mortgage,15
+5/1/2009,Manufacturing,12.6,Subprime mortgage,16
+6/1/2009,Manufacturing,12.6,Subprime mortgage,17
+7/1/2009,Manufacturing,12.4,Subprime mortgage,18
+8/1/2009,Manufacturing,11.8,Subprime mortgage,19
+9/1/2009,Manufacturing,11.9,Subprime mortgage,20
+10/1/2009,Manufacturing,12.2,Subprime mortgage,21
+11/1/2009,Manufacturing,12.5,Subprime mortgage,22
+12/1/2009,Manufacturing,11.9,Subprime mortgage,23
+1/1/2010,Manufacturing,13,Subprime mortgage,24
+2/1/2010,Manufacturing,12.1,Subprime mortgage,25
+3/1/2010,Manufacturing,12.6,Subprime mortgage,26
+4/1/2010,Manufacturing,11.1,Subprime mortgage,27
+5/1/2010,Manufacturing,10.3,Subprime mortgage,28
+6/1/2010,Manufacturing,9.9,Subprime mortgage,29
+7/1/2010,Manufacturing,10,Subprime mortgage,30
+8/1/2010,Manufacturing,9.5,Subprime mortgage,31
+9/1/2010,Manufacturing,9.6,Subprime mortgage,32
+10/1/2010,Manufacturing,9.5,Subprime mortgage,33
+11/1/2010,Manufacturing,9.9,Subprime mortgage,34
+12/1/2010,Manufacturing,10,Subprime mortgage,35
+1/1/2008,Wholesale and Retail Trade,5.4,Subprime mortgage,0
+2/1/2008,Wholesale and Retail Trade,4.9,Subprime mortgage,1
+3/1/2008,Wholesale and Retail Trade,4.9,Subprime mortgage,2
+4/1/2008,Wholesale and Retail Trade,4.5,Subprime mortgage,3
+5/1/2008,Wholesale and Retail Trade,5.2,Subprime mortgage,4
+6/1/2008,Wholesale and Retail Trade,5.7,Subprime mortgage,5
+7/1/2008,Wholesale and Retail Trade,6.5,Subprime mortgage,6
+8/1/2008,Wholesale and Retail Trade,6.6,Subprime mortgage,7
+9/1/2008,Wholesale and Retail Trade,6.2,Subprime mortgage,8
+10/1/2008,Wholesale and Retail Trade,6.3,Subprime mortgage,9
+11/1/2008,Wholesale and Retail Trade,6.7,Subprime mortgage,10
+12/1/2008,Wholesale and Retail Trade,7.2,Subprime mortgage,11
+1/1/2009,Wholesale and Retail Trade,8.7,Subprime mortgage,12
+2/1/2009,Wholesale and Retail Trade,8.9,Subprime mortgage,13
+3/1/2009,Wholesale and Retail Trade,9,Subprime mortgage,14
+4/1/2009,Wholesale and Retail Trade,9,Subprime mortgage,15
+5/1/2009,Wholesale and Retail Trade,9,Subprime mortgage,16
+6/1/2009,Wholesale and Retail Trade,9.1,Subprime mortgage,17
+7/1/2009,Wholesale and Retail Trade,9,Subprime mortgage,18
+8/1/2009,Wholesale and Retail Trade,8.8,Subprime mortgage,19
+9/1/2009,Wholesale and Retail Trade,9,Subprime mortgage,20
+10/1/2009,Wholesale and Retail Trade,9.6,Subprime mortgage,21
+11/1/2009,Wholesale and Retail Trade,9.2,Subprime mortgage,22
+12/1/2009,Wholesale and Retail Trade,9.1,Subprime mortgage,23
+1/1/2010,Wholesale and Retail Trade,10.5,Subprime mortgage,24
+2/1/2010,Wholesale and Retail Trade,10,Subprime mortgage,25
+3/1/2010,Wholesale and Retail Trade,10.1,Subprime mortgage,26
+4/1/2010,Wholesale and Retail Trade,9.5,Subprime mortgage,27
+5/1/2010,Wholesale and Retail Trade,9.8,Subprime mortgage,28
+6/1/2010,Wholesale and Retail Trade,9.3,Subprime mortgage,29
+7/1/2010,Wholesale and Retail Trade,9.8,Subprime mortgage,30
+8/1/2010,Wholesale and Retail Trade,9.3,Subprime mortgage,31
+9/1/2010,Wholesale and Retail Trade,9.6,Subprime mortgage,32
+10/1/2010,Wholesale and Retail Trade,9.2,Subprime mortgage,33
+11/1/2010,Wholesale and Retail Trade,9,Subprime mortgage,34
+12/1/2010,Wholesale and Retail Trade,8.2,Subprime mortgage,35
+1/1/2008,Transportation and Utilities,4.4,Subprime mortgage,0
+2/1/2008,Transportation and Utilities,4.6,Subprime mortgage,1
+3/1/2008,Transportation and Utilities,4.3,Subprime mortgage,2
+4/1/2008,Transportation and Utilities,4,Subprime mortgage,3
+5/1/2008,Transportation and Utilities,4.3,Subprime mortgage,4
+6/1/2008,Transportation and Utilities,5.1,Subprime mortgage,5
+7/1/2008,Transportation and Utilities,5.7,Subprime mortgage,6
+8/1/2008,Transportation and Utilities,5.2,Subprime mortgage,7
+9/1/2008,Transportation and Utilities,5.8,Subprime mortgage,8
+10/1/2008,Transportation and Utilities,5.7,Subprime mortgage,9
+11/1/2008,Transportation and Utilities,5.8,Subprime mortgage,10
+12/1/2008,Transportation and Utilities,6.7,Subprime mortgage,11
+1/1/2009,Transportation and Utilities,8.4,Subprime mortgage,12
+2/1/2009,Transportation and Utilities,9.1,Subprime mortgage,13
+3/1/2009,Transportation and Utilities,9,Subprime mortgage,14
+4/1/2009,Transportation and Utilities,9,Subprime mortgage,15
+5/1/2009,Transportation and Utilities,8.5,Subprime mortgage,16
+6/1/2009,Transportation and Utilities,8.4,Subprime mortgage,17
+7/1/2009,Transportation and Utilities,8.8,Subprime mortgage,18
+8/1/2009,Transportation and Utilities,9.8,Subprime mortgage,19
+9/1/2009,Transportation and Utilities,9.5,Subprime mortgage,20
+10/1/2009,Transportation and Utilities,8.6,Subprime mortgage,21
+11/1/2009,Transportation and Utilities,8.5,Subprime mortgage,22
+12/1/2009,Transportation and Utilities,9,Subprime mortgage,23
+1/1/2010,Transportation and Utilities,11.3,Subprime mortgage,24
+2/1/2010,Transportation and Utilities,10.5,Subprime mortgage,25
+3/1/2010,Transportation and Utilities,9.7,Subprime mortgage,26
+4/1/2010,Transportation and Utilities,9.1,Subprime mortgage,27
+5/1/2010,Transportation and Utilities,7.8,Subprime mortgage,28
+6/1/2010,Transportation and Utilities,7.2,Subprime mortgage,29
+7/1/2010,Transportation and Utilities,9.2,Subprime mortgage,30
+8/1/2010,Transportation and Utilities,7.3,Subprime mortgage,31
+9/1/2010,Transportation and Utilities,7.1,Subprime mortgage,32
+10/1/2010,Transportation and Utilities,6.9,Subprime mortgage,33
+11/1/2010,Transportation and Utilities,7.6,Subprime mortgage,34
+12/1/2010,Transportation and Utilities,7.4,Subprime mortgage,35
+1/1/2008,Information,5.1,Subprime mortgage,0
+2/1/2008,Information,5.8,Subprime mortgage,1
+3/1/2008,Information,4.8,Subprime mortgage,2
+4/1/2008,Information,4.4,Subprime mortgage,3
+5/1/2008,Information,5,Subprime mortgage,4
+6/1/2008,Information,4.7,Subprime mortgage,5
+7/1/2008,Information,4.1,Subprime mortgage,6
+8/1/2008,Information,4.2,Subprime mortgage,7
+9/1/2008,Information,5,Subprime mortgage,8
+10/1/2008,Information,5,Subprime mortgage,9
+11/1/2008,Information,5.2,Subprime mortgage,10
+12/1/2008,Information,6.9,Subprime mortgage,11
+1/1/2009,Information,7.4,Subprime mortgage,12
+2/1/2009,Information,7.1,Subprime mortgage,13
+3/1/2009,Information,7.8,Subprime mortgage,14
+4/1/2009,Information,10.1,Subprime mortgage,15
+5/1/2009,Information,9.5,Subprime mortgage,16
+6/1/2009,Information,11.1,Subprime mortgage,17
+7/1/2009,Information,11.5,Subprime mortgage,18
+8/1/2009,Information,10.7,Subprime mortgage,19
+9/1/2009,Information,11.2,Subprime mortgage,20
+10/1/2009,Information,8.2,Subprime mortgage,21
+11/1/2009,Information,7.6,Subprime mortgage,22
+12/1/2009,Information,8.5,Subprime mortgage,23
+1/1/2010,Information,10,Subprime mortgage,24
+2/1/2010,Information,10,Subprime mortgage,25
+3/1/2010,Information,10.4,Subprime mortgage,26
+4/1/2010,Information,9.4,Subprime mortgage,27
+5/1/2010,Information,9.8,Subprime mortgage,28
+6/1/2010,Information,8.8,Subprime mortgage,29
+7/1/2010,Information,10.6,Subprime mortgage,30
+8/1/2010,Information,9.7,Subprime mortgage,31
+9/1/2010,Information,10.8,Subprime mortgage,32
+10/1/2010,Information,9.8,Subprime mortgage,33
+11/1/2010,Information,8.8,Subprime mortgage,34
+12/1/2010,Information,8.1,Subprime mortgage,35
+1/1/2008,Financial Activities,3,Subprime mortgage,0
+2/1/2008,Financial Activities,3.4,Subprime mortgage,1
+3/1/2008,Financial Activities,3.4,Subprime mortgage,2
+4/1/2008,Financial Activities,3.4,Subprime mortgage,3
+5/1/2008,Financial Activities,3.7,Subprime mortgage,4
+6/1/2008,Financial Activities,3.4,Subprime mortgage,5
+7/1/2008,Financial Activities,3.6,Subprime mortgage,6
+8/1/2008,Financial Activities,4.2,Subprime mortgage,7
+9/1/2008,Financial Activities,4,Subprime mortgage,8
+10/1/2008,Financial Activities,4.5,Subprime mortgage,9
+11/1/2008,Financial Activities,5.2,Subprime mortgage,10
+12/1/2008,Financial Activities,5.6,Subprime mortgage,11
+1/1/2009,Financial Activities,6,Subprime mortgage,12
+2/1/2009,Financial Activities,6.7,Subprime mortgage,13
+3/1/2009,Financial Activities,6.8,Subprime mortgage,14
+4/1/2009,Financial Activities,6,Subprime mortgage,15
+5/1/2009,Financial Activities,5.7,Subprime mortgage,16
+6/1/2009,Financial Activities,5.5,Subprime mortgage,17
+7/1/2009,Financial Activities,6.1,Subprime mortgage,18
+8/1/2009,Financial Activities,6,Subprime mortgage,19
+9/1/2009,Financial Activities,7.1,Subprime mortgage,20
+10/1/2009,Financial Activities,7,Subprime mortgage,21
+11/1/2009,Financial Activities,6.7,Subprime mortgage,22
+12/1/2009,Financial Activities,7.2,Subprime mortgage,23
+1/1/2010,Financial Activities,6.6,Subprime mortgage,24
+2/1/2010,Financial Activities,7.5,Subprime mortgage,25
+3/1/2010,Financial Activities,7.7,Subprime mortgage,26
+4/1/2010,Financial Activities,7.6,Subprime mortgage,27
+5/1/2010,Financial Activities,6.8,Subprime mortgage,28
+6/1/2010,Financial Activities,6.9,Subprime mortgage,29
+7/1/2010,Financial Activities,6.4,Subprime mortgage,30
+8/1/2010,Financial Activities,6.7,Subprime mortgage,31
+9/1/2010,Financial Activities,6.3,Subprime mortgage,32
+10/1/2010,Financial Activities,6.7,Subprime mortgage,33
+11/1/2010,Financial Activities,6.7,Subprime mortgage,34
+12/1/2010,Financial Activities,6.4,Subprime mortgage,35
+1/1/2008,Professional and Business Services,6.4,Subprime mortgage,0
+2/1/2008,Professional and Business Services,6.2,Subprime mortgage,1
+3/1/2008,Professional and Business Services,6.2,Subprime mortgage,2
+4/1/2008,Professional and Business Services,5.3,Subprime mortgage,3
+5/1/2008,Professional and Business Services,5.9,Subprime mortgage,4
+6/1/2008,Professional and Business Services,6.2,Subprime mortgage,5
+7/1/2008,Professional and Business Services,6.1,Subprime mortgage,6
+8/1/2008,Professional and Business Services,6.9,Subprime mortgage,7
+9/1/2008,Professional and Business Services,6.9,Subprime mortgage,8
+10/1/2008,Professional and Business Services,7.5,Subprime mortgage,9
+11/1/2008,Professional and Business Services,7,Subprime mortgage,10
+12/1/2008,Professional and Business Services,8.1,Subprime mortgage,11
+1/1/2009,Professional and Business Services,10.4,Subprime mortgage,12
+2/1/2009,Professional and Business Services,10.8,Subprime mortgage,13
+3/1/2009,Professional and Business Services,11.4,Subprime mortgage,14
+4/1/2009,Professional and Business Services,10.4,Subprime mortgage,15
+5/1/2009,Professional and Business Services,10.9,Subprime mortgage,16
+6/1/2009,Professional and Business Services,11.3,Subprime mortgage,17
+7/1/2009,Professional and Business Services,10.9,Subprime mortgage,18
+8/1/2009,Professional and Business Services,11,Subprime mortgage,19
+9/1/2009,Professional and Business Services,11.3,Subprime mortgage,20
+10/1/2009,Professional and Business Services,10.3,Subprime mortgage,21
+11/1/2009,Professional and Business Services,10.6,Subprime mortgage,22
+12/1/2009,Professional and Business Services,10.3,Subprime mortgage,23
+1/1/2010,Professional and Business Services,11.1,Subprime mortgage,24
+2/1/2010,Professional and Business Services,12,Subprime mortgage,25
+3/1/2010,Professional and Business Services,12.4,Subprime mortgage,26
+4/1/2010,Professional and Business Services,11.1,Subprime mortgage,27
+5/1/2010,Professional and Business Services,11.5,Subprime mortgage,28
+6/1/2010,Professional and Business Services,10.3,Subprime mortgage,29
+7/1/2010,Professional and Business Services,10,Subprime mortgage,30
+8/1/2010,Professional and Business Services,10.5,Subprime mortgage,31
+9/1/2010,Professional and Business Services,9.9,Subprime mortgage,32
+10/1/2010,Professional and Business Services,10.6,Subprime mortgage,33
+11/1/2010,Professional and Business Services,10.6,Subprime mortgage,34
+12/1/2010,Professional and Business Services,10.2,Subprime mortgage,35
+1/1/2008,Education and Health Services,2.9,Subprime mortgage,0
+2/1/2008,Education and Health Services,2.9,Subprime mortgage,1
+3/1/2008,Education and Health Services,3.1,Subprime mortgage,2
+4/1/2008,Education and Health Services,2.8,Subprime mortgage,3
+5/1/2008,Education and Health Services,3.2,Subprime mortgage,4
+6/1/2008,Education and Health Services,3.4,Subprime mortgage,5
+7/1/2008,Education and Health Services,3.9,Subprime mortgage,6
+8/1/2008,Education and Health Services,4.3,Subprime mortgage,7
+9/1/2008,Education and Health Services,4.1,Subprime mortgage,8
+10/1/2008,Education and Health Services,3.9,Subprime mortgage,9
+11/1/2008,Education and Health Services,3.6,Subprime mortgage,10
+12/1/2008,Education and Health Services,3.8,Subprime mortgage,11
+1/1/2009,Education and Health Services,3.8,Subprime mortgage,12
+2/1/2009,Education and Health Services,4.1,Subprime mortgage,13
+3/1/2009,Education and Health Services,4.5,Subprime mortgage,14
+4/1/2009,Education and Health Services,4.6,Subprime mortgage,15
+5/1/2009,Education and Health Services,4.9,Subprime mortgage,16
+6/1/2009,Education and Health Services,6.1,Subprime mortgage,17
+7/1/2009,Education and Health Services,6.1,Subprime mortgage,18
+8/1/2009,Education and Health Services,6,Subprime mortgage,19
+9/1/2009,Education and Health Services,6,Subprime mortgage,20
+10/1/2009,Education and Health Services,6,Subprime mortgage,21
+11/1/2009,Education and Health Services,5.5,Subprime mortgage,22
+12/1/2009,Education and Health Services,5.6,Subprime mortgage,23
+1/1/2010,Education and Health Services,5.5,Subprime mortgage,24
+2/1/2010,Education and Health Services,5.6,Subprime mortgage,25
+3/1/2010,Education and Health Services,5.2,Subprime mortgage,26
+4/1/2010,Education and Health Services,5,Subprime mortgage,27
+5/1/2010,Education and Health Services,5.4,Subprime mortgage,28
+6/1/2010,Education and Health Services,6.2,Subprime mortgage,29
+7/1/2010,Education and Health Services,6.6,Subprime mortgage,30
+8/1/2010,Education and Health Services,6.7,Subprime mortgage,31
+9/1/2010,Education and Health Services,6.3,Subprime mortgage,32
+10/1/2010,Education and Health Services,5.8,Subprime mortgage,33
+11/1/2010,Education and Health Services,5.9,Subprime mortgage,34
+12/1/2010,Education and Health Services,5.2,Subprime mortgage,35
+1/1/2008,Leisure and Hospitality,9.4,Subprime mortgage,0
+2/1/2008,Leisure and Hospitality,8.5,Subprime mortgage,1
+3/1/2008,Leisure and Hospitality,7.6,Subprime mortgage,2
+4/1/2008,Leisure and Hospitality,6.9,Subprime mortgage,3
+5/1/2008,Leisure and Hospitality,8.4,Subprime mortgage,4
+6/1/2008,Leisure and Hospitality,8.9,Subprime mortgage,5
+7/1/2008,Leisure and Hospitality,8.8,Subprime mortgage,6
+8/1/2008,Leisure and Hospitality,8.7,Subprime mortgage,7
+9/1/2008,Leisure and Hospitality,8.2,Subprime mortgage,8
+10/1/2008,Leisure and Hospitality,8.9,Subprime mortgage,9
+11/1/2008,Leisure and Hospitality,9.9,Subprime mortgage,10
+12/1/2008,Leisure and Hospitality,9.5,Subprime mortgage,11
+1/1/2009,Leisure and Hospitality,11.5,Subprime mortgage,12
+2/1/2009,Leisure and Hospitality,11.4,Subprime mortgage,13
+3/1/2009,Leisure and Hospitality,11.6,Subprime mortgage,14
+4/1/2009,Leisure and Hospitality,10.2,Subprime mortgage,15
+5/1/2009,Leisure and Hospitality,11.9,Subprime mortgage,16
+6/1/2009,Leisure and Hospitality,12.1,Subprime mortgage,17
+7/1/2009,Leisure and Hospitality,11.2,Subprime mortgage,18
+8/1/2009,Leisure and Hospitality,12,Subprime mortgage,19
+9/1/2009,Leisure and Hospitality,11.4,Subprime mortgage,20
+10/1/2009,Leisure and Hospitality,12.4,Subprime mortgage,21
+11/1/2009,Leisure and Hospitality,11.9,Subprime mortgage,22
+12/1/2009,Leisure and Hospitality,12.6,Subprime mortgage,23
+1/1/2010,Leisure and Hospitality,14.2,Subprime mortgage,24
+2/1/2010,Leisure and Hospitality,12.7,Subprime mortgage,25
+3/1/2010,Leisure and Hospitality,12.5,Subprime mortgage,26
+4/1/2010,Leisure and Hospitality,12.8,Subprime mortgage,27
+5/1/2010,Leisure and Hospitality,12.4,Subprime mortgage,28
+6/1/2010,Leisure and Hospitality,12.3,Subprime mortgage,29
+7/1/2010,Leisure and Hospitality,11.4,Subprime mortgage,30
+8/1/2010,Leisure and Hospitality,10.8,Subprime mortgage,31
+9/1/2010,Leisure and Hospitality,11.4,Subprime mortgage,32
+10/1/2010,Leisure and Hospitality,11.1,Subprime mortgage,33
+11/1/2010,Leisure and Hospitality,12.4,Subprime mortgage,34
+12/1/2010,Leisure and Hospitality,12,Subprime mortgage,35
+1/1/2020,Construction,5.4,Covid-19,0
+2/1/2020,Construction,5.5,Covid-19,1
+3/1/2020,Construction,6.9,Covid-19,2
+4/1/2020,Construction,16.6,Covid-19,3
+5/1/2020,Construction,12.7,Covid-19,4
+6/1/2020,Construction,10.1,Covid-19,5
+7/1/2020,Construction,8.9,Covid-19,6
+8/1/2020,Construction,7.6,Covid-19,7
+9/1/2020,Construction,7.1,Covid-19,8
+10/1/2020,Construction,6.8,Covid-19,9
+11/1/2020,Construction,7.3,Covid-19,10
+12/1/2020,Construction,9.6,Covid-19,11
+1/1/2021,Construction,9.4,Covid-19,12
+2/1/2021,Construction,9.6,Covid-19,13
+3/1/2021,Construction,8.6,Covid-19,14
+4/1/2021,Construction,7.7,Covid-19,15
+5/1/2021,Construction,6.7,Covid-19,16
+6/1/2021,Construction,7.5,Covid-19,17
+1/1/2020,Manufacturing,3.4,Covid-19,0
+2/1/2020,Manufacturing,3.9,Covid-19,1
+3/1/2020,Manufacturing,4.1,Covid-19,2
+4/1/2020,Manufacturing,13.2,Covid-19,3
+5/1/2020,Manufacturing,11.6,Covid-19,4
+6/1/2020,Manufacturing,9.1,Covid-19,5
+7/1/2020,Manufacturing,8.6,Covid-19,6
+8/1/2020,Manufacturing,6.7,Covid-19,7
+9/1/2020,Manufacturing,6.2,Covid-19,8
+10/1/2020,Manufacturing,5.2,Covid-19,9
+11/1/2020,Manufacturing,4.7,Covid-19,10
+12/1/2020,Manufacturing,4.3,Covid-19,11
+1/1/2021,Manufacturing,4.7,Covid-19,12
+2/1/2021,Manufacturing,4.8,Covid-19,13
+3/1/2021,Manufacturing,5.2,Covid-19,14
+4/1/2021,Manufacturing,5.8,Covid-19,15
+5/1/2021,Manufacturing,4.8,Covid-19,16
+6/1/2021,Manufacturing,5.4,Covid-19,17
+1/1/2020,Wholesale and Retail Trade,4.7,Covid-19,0
+2/1/2020,Wholesale and Retail Trade,4.2,Covid-19,1
+3/1/2020,Wholesale and Retail Trade,5,Covid-19,2
+4/1/2020,Wholesale and Retail Trade,17.1,Covid-19,3
+5/1/2020,Wholesale and Retail Trade,15.1,Covid-19,4
+6/1/2020,Wholesale and Retail Trade,11.2,Covid-19,5
+7/1/2020,Wholesale and Retail Trade,9.7,Covid-19,6
+8/1/2020,Wholesale and Retail Trade,8.3,Covid-19,7
+9/1/2020,Wholesale and Retail Trade,7.8,Covid-19,8
+10/1/2020,Wholesale and Retail Trade,6.5,Covid-19,9
+11/1/2020,Wholesale and Retail Trade,6,Covid-19,10
+12/1/2020,Wholesale and Retail Trade,5.5,Covid-19,11
+1/1/2021,Wholesale and Retail Trade,6.9,Covid-19,12
+2/1/2021,Wholesale and Retail Trade,6.8,Covid-19,13
+3/1/2021,Wholesale and Retail Trade,6.7,Covid-19,14
+4/1/2021,Wholesale and Retail Trade,6.2,Covid-19,15
+5/1/2021,Wholesale and Retail Trade,6.6,Covid-19,16
+6/1/2021,Wholesale and Retail Trade,6.2,Covid-19,17
+1/1/2020,Transportation and Utilities,3,Covid-19,0
+2/1/2020,Transportation and Utilities,3.5,Covid-19,1
+3/1/2020,Transportation and Utilities,5.1,Covid-19,2
+4/1/2020,Transportation and Utilities,13.6,Covid-19,3
+5/1/2020,Transportation and Utilities,14.2,Covid-19,4
+6/1/2020,Transportation and Utilities,12.9,Covid-19,5
+7/1/2020,Transportation and Utilities,13.8,Covid-19,6
+8/1/2020,Transportation and Utilities,11.3,Covid-19,7
+9/1/2020,Transportation and Utilities,9.8,Covid-19,8
+10/1/2020,Transportation and Utilities,7.9,Covid-19,9
+11/1/2020,Transportation and Utilities,8,Covid-19,10
+12/1/2020,Transportation and Utilities,8.4,Covid-19,11
+1/1/2021,Transportation and Utilities,8.2,Covid-19,12
+2/1/2021,Transportation and Utilities,8.4,Covid-19,13
+3/1/2021,Transportation and Utilities,8.3,Covid-19,14
+4/1/2021,Transportation and Utilities,6.8,Covid-19,15
+5/1/2021,Transportation and Utilities,7.2,Covid-19,16
+6/1/2021,Transportation and Utilities,6,Covid-19,17
+1/1/2020,Information,2.3,Covid-19,0
+2/1/2020,Information,2.6,Covid-19,1
+3/1/2020,Information,1.8,Covid-19,2
+4/1/2020,Information,11,Covid-19,3
+5/1/2020,Information,10.9,Covid-19,4
+6/1/2020,Information,12,Covid-19,5
+7/1/2020,Information,12.3,Covid-19,6
+8/1/2020,Information,8.6,Covid-19,7
+9/1/2020,Information,8.6,Covid-19,8
+10/1/2020,Information,5.8,Covid-19,9
+11/1/2020,Information,8.2,Covid-19,10
+12/1/2020,Information,6.4,Covid-19,11
+1/1/2021,Information,7.4,Covid-19,12
+2/1/2021,Information,6.2,Covid-19,13
+3/1/2021,Information,6.6,Covid-19,14
+4/1/2021,Information,5.9,Covid-19,15
+5/1/2021,Information,5.8,Covid-19,16
+6/1/2021,Information,6.1,Covid-19,17
+1/1/2020,Financial Activities,2.5,Covid-19,0
+2/1/2020,Financial Activities,1.7,Covid-19,1
+3/1/2020,Financial Activities,2.2,Covid-19,2
+4/1/2020,Financial Activities,5.4,Covid-19,3
+5/1/2020,Financial Activities,5.7,Covid-19,4
+6/1/2020,Financial Activities,5.1,Covid-19,5
+7/1/2020,Financial Activities,4.7,Covid-19,6
+8/1/2020,Financial Activities,4.2,Covid-19,7
+9/1/2020,Financial Activities,4.4,Covid-19,8
+10/1/2020,Financial Activities,3.8,Covid-19,9
+11/1/2020,Financial Activities,3.5,Covid-19,10
+12/1/2020,Financial Activities,3.1,Covid-19,11
+1/1/2021,Financial Activities,3.4,Covid-19,12
+2/1/2021,Financial Activities,3.7,Covid-19,13
+3/1/2021,Financial Activities,3.4,Covid-19,14
+4/1/2021,Financial Activities,2.7,Covid-19,15
+5/1/2021,Financial Activities,3,Covid-19,16
+6/1/2021,Financial Activities,3.4,Covid-19,17
+1/1/2020,Professional and Business Services,4.1,Covid-19,0
+2/1/2020,Professional and Business Services,4.4,Covid-19,1
+3/1/2020,Professional and Business Services,4.7,Covid-19,2
+4/1/2020,Professional and Business Services,9.8,Covid-19,3
+5/1/2020,Professional and Business Services,9,Covid-19,4
+6/1/2020,Professional and Business Services,8.6,Covid-19,5
+7/1/2020,Professional and Business Services,7.6,Covid-19,6
+8/1/2020,Professional and Business Services,7.2,Covid-19,7
+9/1/2020,Professional and Business Services,6.7,Covid-19,8
+10/1/2020,Professional and Business Services,6.1,Covid-19,9
+11/1/2020,Professional and Business Services,5.9,Covid-19,10
+12/1/2020,Professional and Business Services,6.1,Covid-19,11
+1/1/2021,Professional and Business Services,6.8,Covid-19,12
+2/1/2021,Professional and Business Services,6.8,Covid-19,13
+3/1/2021,Professional and Business Services,6.7,Covid-19,14
+4/1/2021,Professional and Business Services,5.9,Covid-19,15
+5/1/2021,Professional and Business Services,5.4,Covid-19,16
+6/1/2021,Professional and Business Services,5.2,Covid-19,17
+1/1/2020,Education and Health Services,2.4,Covid-19,0
+2/1/2020,Education and Health Services,2.4,Covid-19,1
+3/1/2020,Education and Health Services,3.1,Covid-19,2
+4/1/2020,Education and Health Services,10.9,Covid-19,3
+5/1/2020,Education and Health Services,10.1,Covid-19,4
+6/1/2020,Education and Health Services,8.6,Covid-19,5
+7/1/2020,Education and Health Services,8,Covid-19,6
+8/1/2020,Education and Health Services,6.3,Covid-19,7
+9/1/2020,Education and Health Services,5.1,Covid-19,8
+10/1/2020,Education and Health Services,4.2,Covid-19,9
+11/1/2020,Education and Health Services,3.7,Covid-19,10
+12/1/2020,Education and Health Services,4.1,Covid-19,11
+1/1/2021,Education and Health Services,4.3,Covid-19,12
+2/1/2021,Education and Health Services,3.7,Covid-19,13
+3/1/2021,Education and Health Services,3.8,Covid-19,14
+4/1/2021,Education and Health Services,3.4,Covid-19,15
+5/1/2021,Education and Health Services,3.4,Covid-19,16
+6/1/2021,Education and Health Services,4.4,Covid-19,17
+1/1/2020,Leisure and Hospitality,5.9,Covid-19,0
+2/1/2020,Leisure and Hospitality,5.7,Covid-19,1
+3/1/2020,Leisure and Hospitality,8.1,Covid-19,2
+4/1/2020,Leisure and Hospitality,39.3,Covid-19,3
+5/1/2020,Leisure and Hospitality,35.9,Covid-19,4
+6/1/2020,Leisure and Hospitality,28.9,Covid-19,5
+7/1/2020,Leisure and Hospitality,25,Covid-19,6
+8/1/2020,Leisure and Hospitality,21.3,Covid-19,7
+9/1/2020,Leisure and Hospitality,19,Covid-19,8
+10/1/2020,Leisure and Hospitality,16.3,Covid-19,9
+11/1/2020,Leisure and Hospitality,15,Covid-19,10
+12/1/2020,Leisure and Hospitality,16.7,Covid-19,11
+1/1/2021,Leisure and Hospitality,15.9,Covid-19,12
+2/1/2021,Leisure and Hospitality,13.5,Covid-19,13
+3/1/2021,Leisure and Hospitality,13,Covid-19,14
+4/1/2021,Leisure and Hospitality,10.8,Covid-19,15
+5/1/2021,Leisure and Hospitality,10.1,Covid-19,16
+6/1/2021,Leisure and Hospitality,10.9,Covid-19,17
