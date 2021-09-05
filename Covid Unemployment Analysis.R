@@ -9,20 +9,19 @@ library(magrittr)
 
 
 
-IndMonthlyUnemployment<-read.csv('Weeklyunemploymentclaim.csv')
+
 IndUnemploymentRate<-read.csv('IndustryUR.csv')
 GenderUR<-read.csv('UnemploymentGender.csv')
 RaceUR<-read.csv('UnemploymentRace.csv')
-GenderUnemploymentRate<-read.csv('UnemploymentGender.CSV')
 StateAbbr<-read.csv("StateAbbr.csv")
 
 #------------Industry Unemployment Rate--------------------------
-colnames(IndUnemploymentRate)[2:11]<-c('Construction','Manufacturing','Wholesale and Retail Trade','Transportation and Utilities',
+colnames(IndUnemploymentRate)[2:10]<-c('Construction','Manufacturing','Wholesale and Retail Trade','Transportation and Utilities',
                                        'Information','Financial Activities','Professional and Business Services','Education and Health Services',
-                                       'Leisure and Hospitality','All Industries')
+                                       'Leisure and Hospitality')
 #Replace Industry code with name 
 
-NineNonfarmInd<-tidyr::gather(IndUnemploymentRate,Industry,UR,Construction:`All Industries`)
+NineNonfarmInd<-tidyr::gather(IndUnemploymentRate,Industry,UR,Construction:`Leisure and Hospitality`)
 #Transfer dataset from wide to long format
 
 NineNonfarmInd$Crisis<-ifelse(NineNonfarmInd$DATE<='2010-12-01',
@@ -46,9 +45,6 @@ NineNonfarmIndCovid$Months<-apply(NineNonfarmIndCovid,1,FUN = function(x)
 NineNonfarmIndTwoCrisis<-rbind(NineNonfarmIndSubprim,NineNonfarmIndCovid)
 #Combine the Subprime mortgage and Covid-19 data together
 
-NineNonfarmIndTwoCrisis<-NineNonfarmIndTwoCrisis[-which(NineNonfarmIndTwoCrisis$Industry=='All Industries'),]
-#Drop the 'All industry' variable
-
 Industry<-c(unique(NineNonfarmIndTwoCrisis$Industry))
 #Create a list for all the industry
 
@@ -60,17 +56,18 @@ NYTXUnemployment<-read.csv('fredgraph NYTX.csv')
 UTWYUnemployment<-read.csv('fredgraph UTWY.csv')
 USUnemployment<-read.csv('UNRATE.csv')
 
-USUnemployment$DATE<-as.Date(USUnemployment$DATE,"%m/%d/%Y")
+USUnemployment$DATE<-as.Date(USUnemployment$DATE,"%Y-%m-%d")
 #Change the date variable from chr to date
 
 USUnemployment$DATE<-strftime(USUnemployment$DATE,"%Y-%m-%d")
 #Change the format of date variable from "M/D/Y" to "Y-m-d"
 
+colnames(USUnemployment)[2]<-'U.S.'
 StatesUnemployment<-merge(ALMEUnemployment, merge(merge(AZFLUnemployment,MDNMUnemployment,by = 'DATE',all = T),
                           merge(NYTXUnemployment,UTWYUnemployment,by='DATE',all = T),by='DATE',all=T),by='DATE',all = T)
 #Merge all the states' unemployment rate data together
 
-StatesUnemployment<-merge(StatesUnemployment,USUnemployment,by='DATE',all=T)
+StatesUnemployment<-merge(StatesUnemployment,USUnemployment,by='DATE',all.x =T)
 #Merge the states' unemployment rate with national's rate
 
 colnames(StatesUnemployment)[1:53]<-gsub("UR","",names(StatesUnemployment))
@@ -110,6 +107,7 @@ StatesUnemploymentCovid$Months<-apply(StatesUnemploymentCovid,1,FUN = function(x
 
 StatesUnemploymentTwoCrisis<-rbind(StatesUnemploymentLSubPrim,StatesUnemploymentCovid)
 #Combine the Subprime mortgage and Covid-19 data together
+StatesUnemploymentTwoCrisis$UR<-as.numeric(StatesUnemploymentTwoCrisis$UR)
 
 
 #------------- Gender Unemployment Rate-----------------------------
