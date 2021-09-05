@@ -8,8 +8,9 @@ library(viridis)
 NineNonfarmIndTwoCrisis<-read.csv('NineNonfarmIndTwoCrisis.csv')
 RaceURTwoCrisis<-read.csv('RaceURTwoCrisis.csv')
 GenderURTwoCrisis<-read.csv('GenderURTwoCrisis.csv')
-StatesUnemploymentTwoCrisis<-read.csv('StatesUnemploymentTwoCrisis.csv')
+StatesUnemploymentTwoCrisis<-read.csv('StatesUnemploymentTwoCrisis.csv')[,c(2:7)]
 StateAbbr<-read.csv('StateAbbr.csv')
+
 
 ui<-fluidPage(
     fluidRow(column(12,titlePanel(h3(strong('How Covid-19 recession Impact The Job Market Differently than the Financial Crisis in 2008')))
@@ -36,7 +37,7 @@ ui<-fluidPage(
                          fluidRow(
                              column(8,plotlyOutput('IndustryUR20'),
                                     fluidRow(column(8,h6('Note: Months into Recession measured by months from 2020-01-01')))),
-                             column(1,selectInput('Months2','Months into recession',choices = c(1:17),width = '100%')),
+                             column(1,selectInput('Months2','Months into recession',choices = c(1:19),width = '100%')),
                              column(3,h5(strong("Top Industries Impacted by Recession")),
                                     DT::dataTableOutput('Table2',width = '100%'))
                          )),
@@ -51,7 +52,7 @@ ui<-fluidPage(
                          fluidRow(
                              column(8,plotlyOutput('RaceUR20'),
                                     fluidRow(column(8,h6('Note: Months into Recession measured by months from 2020-01-01')))),
-                             column(1,selectInput('Months4','Months into recession',choices = c(1:17),width = '100%')),
+                             column(1,selectInput('Months4','Months into recession',choices = c(1:19),width = '100%')),
                              column(3,h5(strong("Racial Group Ranked by UR")),
                                     DT::dataTableOutput('Table4',width = '100%'))
                          )),
@@ -66,7 +67,7 @@ ui<-fluidPage(
                          fluidRow(
                              column(8,plotlyOutput('GenderUR20'),
                                     fluidRow(column(8,h6('Note: Months into Recession measured by months from 2020-01-01')))),
-                             column(1,selectInput('Months6','Months into recession',choices = c(1:17),width = '100%')),
+                             column(1,selectInput('Months6','Months into recession',choices = c(1:19),width = '100%')),
                              column(3,h5(strong('Gender Group Ranked by UR')),
                                     DT::dataTableOutput('Table6',width = '100%'))
                          ))

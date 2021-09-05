@@ -162,6 +162,7 @@ DATE,Crisis,Months,Race,UR
 5/1/2021,Covid-19,16,African American,9.1
 6/1/2021,Covid-19,17,African American,9.2
 7/1/2021,Covid-19,18,African American,8.2
+8/1/2021,Covid-19,19,African American,8.8
 1/1/2020,Covid-19,0,White,3
 2/1/2020,Covid-19,1,White,3
 3/1/2020,Covid-19,2,White,3.9
@@ -181,6 +182,7 @@ DATE,Crisis,Months,Race,UR
 5/1/2021,Covid-19,16,White,5.1
 6/1/2021,Covid-19,17,White,5.2
 7/1/2021,Covid-19,18,White,4.8
+8/1/2021,Covid-19,19,White,4.5
 1/1/2020,Covid-19,0,Asian,3.2
 2/1/2020,Covid-19,1,Asian,2.5
 3/1/2020,Covid-19,2,Asian,4.1
@@ -200,6 +202,7 @@ DATE,Crisis,Months,Race,UR
 5/1/2021,Covid-19,16,Asian,5.5
 6/1/2021,Covid-19,17,Asian,5.9
 7/1/2021,Covid-19,18,Asian,5.5
+8/1/2021,Covid-19,19,Asian,4.6
 1/1/2020,Covid-19,0,Hispanic or Latino,4.3
 2/1/2020,Covid-19,1,Hispanic or Latino,4.4
 3/1/2020,Covid-19,2,Hispanic or Latino,6
@@ -219,3 +222,4 @@ DATE,Crisis,Months,Race,UR
 5/1/2021,Covid-19,16,Hispanic or Latino,7.3
 6/1/2021,Covid-19,17,Hispanic or Latino,7.4
 7/1/2021,Covid-19,18,Hispanic or Latino,6.6
+8/1/2021,Covid-19,19,Hispanic or Latino,6.4
